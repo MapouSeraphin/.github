@@ -1,4 +1,4 @@
-# Mapou Séraphin
+# MAPOU Séraphin
 
 **Infectious disease epidemiology · Causal inference · AI/ML for public health**
 
@@ -70,4 +70,4 @@ We welcome collaborations with researchers, health departments, and public healt
 
 ---
 
-*Mapou Séraphin is based in Gainesville, Florida, affiliated with the University of Florida.*
+*MAPOU Séraphin currently stands in Gainesville, Florida, affiliated with the University of Florida | Department of Epidemiology.*
